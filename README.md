@@ -19,7 +19,7 @@ This loads in all the dependencies used in the application.
 
 > ### 3. Add your Google Developer key.
 
-Register an API key from (Google Developers Console)[https://console.developers.google.com] and add the key to line 9 in the **API_KEY** constant in `index.js`.
+Register an API key from [Google Developers Console](https://console.developers.google.com) and add the key to line 9 in the **API_KEY** constant in `index.js`.
 
 > ### 4. Run Server.
 
